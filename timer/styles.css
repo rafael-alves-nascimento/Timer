@@ -1,0 +1,19 @@
+#container{
+    border: solid 5px black;
+    background-image: linear-gradient(to bottom,rgb(121, 30, 30), rgb(68, 62, 62));
+    background-color: rgb(10, 9, 9);
+    margin-left: 38%;
+    width: 400px;
+    padding: 60px;
+    border-radius: 25px;
+    margin-top: 5%;
+}
+.tempo{
+        color: rgb(24, 16, 16);
+        border-radius: 5px;
+        margin-left:10px;
+        height: 100px;  
+        font-size: 70px; 
+        width: 250px;
+        text-align: center;  
+}
